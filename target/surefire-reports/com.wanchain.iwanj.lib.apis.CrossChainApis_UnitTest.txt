@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wanchain.iwanj.lib.apis.CrossChainApis_UnitTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.79 sec - in com.wanchain.iwanj.lib.apis.CrossChainApis_UnitTest

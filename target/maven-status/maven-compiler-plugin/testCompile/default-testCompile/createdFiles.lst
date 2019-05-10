@@ -1,0 +1,7 @@
+com/wanchain/iwanj/lib/apis/AccountApis_UnitTest.class
+com/wanchain/iwanj/lib/apis/TxInfoApis_UnitTest.class
+com/wanchain/iwanj/lib/apis/TokenApis_UnitTest.class
+com/wanchain/iwanj/lib/apis/ContractApis_UnitTest.class
+com/wanchain/iwanj/AppTest.class
+com/wanchain/iwanj/lib/apis/CrossChainApis_UnitTest.class
+com/wanchain/iwanj/lib/apis/BlockApis_UnitTest.class

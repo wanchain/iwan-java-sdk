@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.wanchain.iwanj.lib.apis.TokenApis_UnitTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.532 sec - in com.wanchain.iwanj.lib.apis.TokenApis_UnitTest
