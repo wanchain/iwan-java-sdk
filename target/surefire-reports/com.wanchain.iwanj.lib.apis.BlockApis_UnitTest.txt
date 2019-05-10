@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.wanchain.iwanj.lib.apis.BlockApis_UnitTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.151 sec - in com.wanchain.iwanj.lib.apis.BlockApis_UnitTest

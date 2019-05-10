@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.wanchain.iwanj.lib.apis.TxInfoApis_UnitTest
--------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 112.262 sec - in com.wanchain.iwanj.lib.apis.TxInfoApis_UnitTest
