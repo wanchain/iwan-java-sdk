@@ -1,4 +1,4 @@
-# iWan-java-sdk
+# iwan-java-sdk
 
 [![GitHub License][license]][license-url]
 
