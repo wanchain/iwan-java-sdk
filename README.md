@@ -6,7 +6,7 @@
 
 ## Install
 You can get iwan-java-sdk by two ways:
-1) By cloning the java sdk source code and packaging the jar by `maven install` cmd:
+1) By cloning the Java SDK source code and packaging the jar by `maven install` cmd:
 ```bash
 git clone https://github.com/wandevs/iwan-java-sdk.git
 
@@ -22,10 +22,10 @@ maven install
 Once you get the sdk, you can integrate it into you application. 
 
 
-## Initial iWan Java Sdk Instance
+## Initial iWan Java SDK Instance
 After installation, the iWan SDK can be used to connect to the iWan RPC server to call a method such as `getBalance`. The default config can be used or custom config parameters can be passed using the `option` object.
 
-### Import the iWan-java-sdk
+### Import the iwan-java-sdk
 ```bash
 import com.wanchain.iwanj.lib.apis.Wanj;
 ```
@@ -69,7 +69,7 @@ Both `send()` and `sendAsync()` are supported for each method.
 - `sendAsync()` : Api method is called for asynchronous mode.
 
 
-The method `getBalance` is used as an example below to show the use of `send()` and `sendAsync()` in the iWan-java-SDK :
+The method `getBalance` is used as an example below to show the use of `send()` and `sendAsync()` in the iwan-java-SDK :
 
 ### Synchronous Call Mode: send()
 ```bash
@@ -102,7 +102,7 @@ try {
 
 ## Documentation
 
-[iWan Java SDK API](https://wanchain.github.io/iWan-java-sdk/) : API details about iWan java sdk
+[iWan Java SDK API](https://wanchain.github.io/iwan-java-sdk/) : API details about iWan Java SDK
 
 [license]: https://img.shields.io/badge/license-GNUGPL3-blue.svg
 [license-url]:https://github.com/wandevs/iWan-java-sdk/blob/master/LICENSE
