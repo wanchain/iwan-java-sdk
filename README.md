@@ -8,7 +8,7 @@
 You can get iwan-java-sdk by two ways:
 1) By cloning the java sdk source code and packaging the jar by `maven install` cmd:
 ```bash
-git clone https://github.com/wandevs/iWan-java-sdk.git
+git clone https://github.com/wandevs/iwan-java-sdk.git
 
 cd wanchain-java-sdk
 
@@ -16,7 +16,7 @@ maven install
 ```
    Then there will be a new folder `target` in which you can get the sdk named `iwanj-*.*.*.jar`.
 
-2) By downloading the jar we have packaged already: [iWan-java-sdk](examples/lib/iwanj-1.0.0.jar)
+2) By downloading the jar we have packaged already: [iwan-java-sdk](examples/lib/iwanj-1.0.0.jar)
 
 
 Once you get the sdk, you can integrate it into you application. 
